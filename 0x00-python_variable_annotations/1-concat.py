@@ -3,7 +3,7 @@
 '''
 
 
-def concat(str1: string, str2: string) -> string:
+def concat(str1: str, str2: str) -> str:
     '''Concatenates the two strings passed as arguments
     '''
     return str1 + str2
