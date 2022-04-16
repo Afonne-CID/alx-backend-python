@@ -1,4 +1,4 @@
-#!/usr/bin/env pythoh3
+#!/usr/bin/env python3
 '''Task 1's module
 '''
 
