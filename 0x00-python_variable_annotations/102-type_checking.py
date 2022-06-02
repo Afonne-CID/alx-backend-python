@@ -4,7 +4,6 @@
 from typing import Any, List, Tuple
 
 
-
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
     '''Returns a list
     '''
